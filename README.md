@@ -1,6 +1,6 @@
 # Hi, I'm Suhas
 
-Software engineering student. I build, test, and learn.
+Software engineering student . I build, test, and learn.
 
 ## About me
 
