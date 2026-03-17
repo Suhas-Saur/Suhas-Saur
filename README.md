@@ -38,6 +38,6 @@ Software engineering student . I build, test, and learn.
 ## Contact
 
 * GitHub: @Suhas-Saur
-* Email: [suhassuperstar@gmail.com](mailto:suhassuperstar@gmail.com)
+* Email: [suhasssuperstar@gmail.com](mailto:suhasssuperstar@gmail.com)
 
 Thanks for stopping by.
